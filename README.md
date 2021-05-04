@@ -9,4 +9,6 @@ Welcome to My Github! Take a look around!
 
 I enjoy Node.js and SQL databases along with the whole backend creation. State management is so interesting on the front end and although I learned to write in Javascript including React and using a Redux store, I look forward to incorporating Python in projects in the near future!
 
+Please check out the work I've done with the organizations I belong to in the left lower icons section.
+
 I look forward to working with you or hearing from you!
