@@ -12,4 +12,3 @@ I enjoy Node.js and SQL databases along with the whole backend creation. State m
 Please check out the work I've done with the organizations I belong to in the left lower icons section.
 
 I look forward to working with you or hearing from you!
-
